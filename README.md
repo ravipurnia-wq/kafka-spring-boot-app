@@ -5,6 +5,7 @@ A comprehensive Spring Boot application demonstrating Apache Kafka integration w
 ## Overview
 
 This application showcases a complete Kafka implementation using Spring Boot, featuring message production, consumption, and REST API endpoints for Kafka operations. It includes Docker Compose setup for local Kafka infrastructure and comprehensive test coverage.
+https://kafka.apache.org/quickstart
 
 ## Features
 
